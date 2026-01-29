@@ -117,7 +117,7 @@ body {
 }
 
 .card {
-    background: #006edd;
+    background: #1863ae;
     color: #fff;
     padding: 15px;
     flex: 1;
@@ -125,7 +125,7 @@ body {
 }
 
 .card-c {
-    background-color: #e74c3c;
+    background-color: #334dc3;
     width: 50px;
     height: 50px;
 }
@@ -136,7 +136,7 @@ body {
 }
 
 .boxmain {
-    background-color: #1182f3;
+    background-color: #164e85;
     width: 100%;
     height: 50px;
     padding: 15px;
